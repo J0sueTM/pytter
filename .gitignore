@@ -8,5 +8,9 @@ backend/credentials/*.json
 backend/data/search/*.json
 backend/data/*.json
 
+# whitelist
+!backend/credentials/
+!backend/data/search/
+
 # files
 *.class
