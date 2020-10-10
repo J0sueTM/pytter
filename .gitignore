@@ -6,7 +6,7 @@ __pycache__/
 .vscode/
 backend/credentials/*.json
 backend/data/search/*.json
-bacend/data/*.json
+backend/data/*.json
 
 # files
 *.class
