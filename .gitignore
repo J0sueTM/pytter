@@ -1,0 +1,12 @@
+# by J0sueTM
+
+# folders
+__pycache__/
+.idea/
+.vscode/
+backend/credentials/*.json
+backend/data/search/*.json
+bacend/data/*.json
+
+# files
+*.class
