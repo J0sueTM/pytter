@@ -18,3 +18,6 @@ def writeCredentials():
             print("Error: Couldn't write credentials on file")
 
             exit()
+            
+            
+# TODO [J0sueTM] make gui handle credentials changes
